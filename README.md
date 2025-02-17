@@ -3,11 +3,12 @@
 end to end data science project using ML and AI
 
 ### Primary Goal
-	•	Reduce customer churn by identifying at-risk customers and taking proactive steps to retain them.
+- Reduce customer churn by identifying at-risk customers and taking proactive steps to retain them.
 ### Key Inputs/Strategies
-	1.	Segment customers into meaningful cohorts to understand behavior and tailor engagement strategies.
-	2.	Personalize communications based on cohort insights and churn risk predictions.
+- Segment customers into meaningful cohorts to understand behavior and tailor engagement strategies.
+- Personalize communications based on cohort insights and churn risk predictions.
 
+## Sections
 
 ### 01_data_preparation_and_eda.ipynb
 
