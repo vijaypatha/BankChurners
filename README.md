@@ -1,5 +1,6 @@
 
 # BankChurners: Predict and Personalize
+end to end data science project using ML and AI
 
 ### Primary Goal
 	•	Reduce customer churn by identifying at-risk customers and taking proactive steps to retain them.
