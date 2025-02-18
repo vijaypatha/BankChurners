@@ -1,6 +1,6 @@
 
 # BankChurners: Predict and Personalize
-end to end data science project using ML and AI
+End to end data science project using ML and AI
 
 ### Primary Goal
 - Reduce customer churn by identifying at-risk customers and taking proactive steps to retain them.
@@ -9,12 +9,13 @@ end to end data science project using ML and AI
 - Personalize communications based on cohort insights and churn risk predictions.
 
 ## Sections
+---
 
 ### 01_data_preparation_and_eda.ipynb
 
-This notebook will handle data loading, cleaning, and initial exploratory data analysis.
+This notebook will handle data loading, cleaning, initial exploratory data analysis, and transformations. 
 
-It can be imported and used by subsequent notebooks as needed.
+The prepared data can be imported and used by subsequent notebooks for clustering and modeling.
 
 ### 02_cohort_identification_and_churn_prediction.ipynb
 
