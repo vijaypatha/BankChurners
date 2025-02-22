@@ -1,0 +1,23 @@
+[project]
+name = "bankchurners"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "kagglehub>=0.3.8",
+    "matplotlib>=3.10.0",
+    "numpy>=2.2.3",
+    "openai>=1.63.1",
+    "pandas>=2.2.3",
+    "python-dotenv>=1.0.1",
+    "scikit-learn>=1.6.1",
+    "scipy>=1.15.2",
+    "seaborn>=0.13.2",
+    "python-dotenv==1.0.1",
+    "ipython>=8.32.0",
+    "missingno>=0.5.2",
+    "pyarrow>=19.0.1",
+    "fastparquet>=2024.11.0",
+]
