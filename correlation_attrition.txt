@@ -1,0 +1,81 @@
+                                  Attrition_Flag_Attrited Customer  \
+Customer_Age                                              0.018203   
+Dependent_count                                           0.018991   
+Months_on_book                                            0.013687   
+Total_Relationship_Count                                 -0.150005   
+Months_Inactive_12_mon                                    0.152449   
+Contacts_Count_12_mon                                     0.204491   
+Total_Revolving_Bal                                      -0.263053   
+Total_Trans_Ct                                           -0.371403   
+Total_Trans_Amt_BoxCox                                   -0.232896   
+Total_Ct_Chng_Q4_Q1_BoxCox                               -0.344669   
+Total_Amt_Chng_Q4_Q1_BoxCox                              -0.158890   
+Avg_Utilization_Ratio_BoxCox                             -0.222856   
+Credit_Limit_BoxCox                                      -0.052821   
+Avg_Open_To_Buy_BoxCox                                    0.016723   
+Attrition_Flag_Attrited Customer                          1.000000   
+Attrition_Flag_Existing Customer                         -1.000000   
+Gender_F                                                  0.037272   
+Gender_M                                                 -0.037272   
+Education_Level_College                                  -0.007840   
+Education_Level_Doctorate                                 0.029386   
+Education_Level_Graduate                                 -0.009046   
+Education_Level_High School                              -0.011730   
+Education_Level_Post-Graduate                             0.011127   
+Education_Level_Uneducated                               -0.001444   
+Education_Level_Unknown                                   0.009005   
+Marital_Status_Divorced                                   0.000850   
+Marital_Status_Married                                   -0.023735   
+Marital_Status_Single                                     0.019037   
+Marital_Status_Unknown                                    0.008904   
+Income_Category_$120K +                                   0.009584   
+Income_Category_$40K - $60K                              -0.011688   
+Income_Category_$60K - $80K                              -0.028221   
+Income_Category_$80K - $120K                             -0.003459   
+Income_Category_Less than $40K                            0.022466   
+Income_Category_Unknown                                   0.007179   
+Card_Category_Blue                                        0.003216   
+Card_Category_Gold                                        0.005973   
+Card_Category_Platinum                                    0.010823   
+Card_Category_Silver                                     -0.008467   
+
+                                  Attrition_Flag_Existing Customer  
+Customer_Age                                             -0.018203  
+Dependent_count                                          -0.018991  
+Months_on_book                                           -0.013687  
+Total_Relationship_Count                                  0.150005  
+Months_Inactive_12_mon                                   -0.152449  
+Contacts_Count_12_mon                                    -0.204491  
+Total_Revolving_Bal                                       0.263053  
+Total_Trans_Ct                                            0.371403  
+Total_Trans_Amt_BoxCox                                    0.232896  
+Total_Ct_Chng_Q4_Q1_BoxCox                                0.344669  
+Total_Amt_Chng_Q4_Q1_BoxCox                               0.158890  
+Avg_Utilization_Ratio_BoxCox                              0.222856  
+Credit_Limit_BoxCox                                       0.052821  
+Avg_Open_To_Buy_BoxCox                                   -0.016723  
+Attrition_Flag_Attrited Customer                         -1.000000  
+Attrition_Flag_Existing Customer                          1.000000  
+Gender_F                                                 -0.037272  
+Gender_M                                                  0.037272  
+Education_Level_College                                   0.007840  
+Education_Level_Doctorate                                -0.029386  
+Education_Level_Graduate                                  0.009046  
+Education_Level_High School                               0.011730  
+Education_Level_Post-Graduate                            -0.011127  
+Education_Level_Uneducated                                0.001444  
+Education_Level_Unknown                                  -0.009005  
+Marital_Status_Divorced                                  -0.000850  
+Marital_Status_Married                                    0.023735  
+Marital_Status_Single                                    -0.019037  
+Marital_Status_Unknown                                   -0.008904  
+Income_Category_$120K +                                  -0.009584  
+Income_Category_$40K - $60K                               0.011688  
+Income_Category_$60K - $80K                               0.028221  
+Income_Category_$80K - $120K                              0.003459  
+Income_Category_Less than $40K                           -0.022466  
+Income_Category_Unknown                                  -0.007179  
+Card_Category_Blue                                       -0.003216  
+Card_Category_Gold                                       -0.005973  
+Card_Category_Platinum                                   -0.010823  
+Card_Category_Silver                                      0.008467  
